@@ -155,7 +155,7 @@ const Subscribe = ({ isAdmin }) => {
         </p>
 
         <div className="bottom-4 justify-center items-center flex space-x-2 pt-6">
-          <a href="tel:201-555-1234" className="hover:underline">
+          <a href="tel:(201) 222-1349" className="hover:underline">
             <div className="bg-black rounded-full p-2">
               <FaPhoneAlt className="w-4 h-4 text-white" />
             </div>
