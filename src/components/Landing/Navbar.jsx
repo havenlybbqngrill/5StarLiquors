@@ -74,7 +74,7 @@ const Navbar = () => {
               className="flex items-center text-black hover:text-[#722F37] transition duration-200"
             >
               <FaMapMarkerAlt />
-              <span className="ml-2">555 Tonnelle Ave, Jersey City</span>
+              <span className="ml-2">444 Tonnelle Ave, Jersey City</span>
             </a>
 
             <a
