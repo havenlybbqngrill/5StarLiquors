@@ -3,6 +3,4 @@ User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
 Sitemap: https://www.pikkapainting.com/sitemap.xml
-Sitemap: https://www.555discountliquor.com/sitemap_index.xml
-Sitemap: https://www.555discountliquor.com/sitemap.xml.gz
 
